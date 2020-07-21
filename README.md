@@ -1,1 +1,1 @@
-:boat::wind::sea:
+:dash::ocean::boat:
